@@ -1,9 +1,9 @@
+import 'package:auto_plus/constants/constants.dart';
+import 'package:auto_plus/screen/sign_in/sign_in_screen.dart';
+import 'package:auto_plus/screen/splash/components/splash_content.dart';
+import 'package:auto_plus/widgets/default_button.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_shopping_cart/widgets/default_button.dart';
-import 'package:flutter_shopping_cart/constants/constants.dart';
-import 'package:flutter_shopping_cart/screen/sign_in/sign_in_screen.dart';
-import 'package:flutter_shopping_cart/screen/splash/components/splash_content.dart';
-import 'package:flutter_shopping_cart/utils/size_config.dart';
+import 'package:auto_plus/utils/size_config.dart';
 
 class Body extends StatefulWidget {
   @override

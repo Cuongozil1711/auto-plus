@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:flutter_shopping_cart/data/shared_preferences/token_manager.dart';
+import 'package:auto_plus/data/shared_preferences/token_manager.dart';
 import 'package:http/http.dart' as http;
 
 class ApiClient {

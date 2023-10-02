@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/data/model/user/organizationRoles.dart';
-import 'package:flutter_shopping_cart/data/model/user/role.dart';
-import 'package:flutter_shopping_cart/data/model/user/userOrganizationRole.dart';
+import 'package:auto_plus/data/model/user/organizationRoles.dart';
+import 'package:auto_plus/data/model/user/role.dart';
+import 'package:auto_plus/data/model/user/userOrganizationRole.dart';
 
 class User extends Equatable {
   User({required this.id, required this.username, required this.avatar, required this.fullname, required this.locked, required this.isDelete, required this.roles, required this.organizationRoles, required this.userOrganizationRole});

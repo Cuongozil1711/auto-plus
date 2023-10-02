@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/data/model/catalog.dart';
-import 'package:flutter_shopping_cart/data/repositories/shopping_repository.dart';
+import 'package:auto_plus/data/model/catalog.dart';
+import 'package:auto_plus/data/repositories/shopping_repository.dart';
 part 'catalog_event.dart';
 part 'catalog_state.dart';
 

@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/cart/cart_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/cart/cart_state.dart';
+
+import '../../../bloc/cart/cart_bloc.dart';
+import '../../../bloc/cart/cart_state.dart';
 
 class CartPage extends StatelessWidget {
   const CartPage({super.key});

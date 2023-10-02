@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/data/model/task.dart';
+import 'package:auto_plus/data/model/task.dart';
 
 sealed class TaskState extends Equatable {
   const TaskState();

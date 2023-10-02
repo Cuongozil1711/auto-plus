@@ -1,4 +1,4 @@
-name: flutter_shopping_cart
+name: auto_plus
 description: A new Flutter project.
 version: 1.0.0+1
 publish_to: none
@@ -23,14 +23,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   mocktail: ^1.0.0
+  flutter_lints: ^2.0.0
 
-dependency_overrides:
-  bloc:
-    path: ../../packages/bloc
-  bloc_test:
-    path: ../../packages/bloc_test
-  flutter_bloc:
-    path: ../../packages/flutter_bloc
 
 flutter:
   uses-material-design: true

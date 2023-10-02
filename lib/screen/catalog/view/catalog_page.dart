@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/cart/cart_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/cart/cart_state.dart';
-import 'package:flutter_shopping_cart/bloc/catalog/catalog_bloc.dart';
-import 'package:flutter_shopping_cart/data/model/item.dart';
+import 'package:auto_plus/bloc/cart/cart_bloc.dart';
+import 'package:auto_plus/bloc/cart/cart_state.dart';
+import 'package:auto_plus/bloc/catalog/catalog_bloc.dart';
+import 'package:auto_plus/data/model/item.dart';
 
 class CatalogPage extends StatelessWidget {
   const CatalogPage({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_shopping_cart/data/model/product.dart';
+import 'package:auto_plus/data/model/product.dart';
 
 const _delay = Duration(milliseconds: 800);
 

@@ -1,5 +1,5 @@
-import 'package:flutter_shopping_cart/data/model/keys/task_keys.dart';
-import 'package:flutter_shopping_cart/data/model/task.dart';
+import 'package:auto_plus/data/model/keys/task_keys.dart';
+import 'package:auto_plus/data/model/task.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 

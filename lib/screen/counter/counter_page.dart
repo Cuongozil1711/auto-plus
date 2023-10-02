@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/counter/counter_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/counter/counter_event.dart';
-import 'package:flutter_shopping_cart/bloc/counter/counter_provider.dart';
+import 'package:auto_plus/bloc/counter/counter_bloc.dart';
+import 'package:auto_plus/bloc/counter/counter_event.dart';
+import 'package:auto_plus/bloc/counter/counter_provider.dart';
 
 class CounterPage extends StatefulWidget {
   const CounterPage({super.key});

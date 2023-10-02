@@ -1,8 +1,8 @@
-import 'package:flutter_shopping_cart/data/api/api_client.dart';
-import 'package:flutter_shopping_cart/data/dto/userDTO.dart';
-import 'package:flutter_shopping_cart/data/model/user/userToken.dart';
-import 'package:flutter_shopping_cart/data/shared_preferences/token_manager.dart';
-import 'package:flutter_shopping_cart/data/shared_preferences/user_token_manager.dart';
+import 'package:auto_plus/data/api/api_client.dart';
+import 'package:auto_plus/data/dto/userDTO.dart';
+import 'package:auto_plus/data/model/user/userToken.dart';
+import 'package:auto_plus/data/shared_preferences/token_manager.dart';
+import 'package:auto_plus/data/shared_preferences/user_token_manager.dart';
 
 
 Future<void> loginApi(UserDTO userDTO, Function(int status, String res) param1) async {

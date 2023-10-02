@@ -1,10 +1,11 @@
+import 'package:auto_plus/screen/task/page/task_page.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_shopping_cart/data/repositories/task/task_datasource.dart';
-import 'package:flutter_shopping_cart/data/repositories/task/task_repository_impl.dart';
-import 'package:flutter_shopping_cart/data/model/task.dart';
-import 'package:flutter_shopping_cart/screen/task/page/task_page.dart';
-import 'package:flutter_shopping_cart/widgets/common_text_field.dart';
 import 'package:gap/gap.dart';
+
+import '../../../data/model/task.dart';
+import '../../../data/repositories/task/task_datasource.dart';
+import '../../../data/repositories/task/task_repository_impl.dart';
+import '../../../widgets/common_text_field.dart';
 
 
 class CreateTaskPage extends StatefulWidget {

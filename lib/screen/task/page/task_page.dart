@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/task/task_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/task/task_state.dart';
+import '../../../bloc/task/task_bloc.dart';
+import '../../../bloc/task/task_state.dart';
 
 class TaskPage extends StatelessWidget {
   const TaskPage({super.key});

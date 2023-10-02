@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_shopping_cart/screen/splash/components/body.dart';
-import 'package:flutter_shopping_cart/utils/size_config.dart';
+import 'package:auto_plus/screen/splash/components/body.dart';
+import 'package:auto_plus/utils/size_config.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});

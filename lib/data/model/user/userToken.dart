@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/data/model/user/user.dart';
+import 'package:auto_plus/data/model/user/user.dart';
 
 class UserToken extends Equatable {
 

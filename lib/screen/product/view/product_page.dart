@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_shopping_cart/bloc/product/product_bloc.dart';
-import 'package:flutter_shopping_cart/screen/product/view/product_app_bar.dart';
-import 'package:flutter_shopping_cart/screen/product/view/product_item.dart';
+import 'package:auto_plus/bloc/product/product_bloc.dart';
+import 'package:auto_plus/screen/product/view/product_app_bar.dart';
+import 'package:auto_plus/screen/product/view/product_item.dart';
 
 class ProductPage extends StatelessWidget {
   const ProductPage({super.key});

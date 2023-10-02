@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:flutter_shopping_cart/data/model/item.dart';
+import 'package:auto_plus/data/model/item.dart';
 
 
 

@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/bloc/cart/cart_state.dart';
-import 'package:flutter_shopping_cart/data/model/cart.dart';
-import 'package:flutter_shopping_cart/data/repositories/shopping_repository.dart';
+import 'package:auto_plus/bloc/cart/cart_state.dart';
+import 'package:auto_plus/data/model/cart.dart';
+import 'package:auto_plus/data/repositories/shopping_repository.dart';
 import 'package:meta/meta.dart';
 
 import '../../data/model/item.dart';

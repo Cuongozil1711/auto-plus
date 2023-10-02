@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/data/model/cart.dart';
+import 'package:auto_plus/data/model/cart.dart';
 import 'package:meta/meta.dart';
 
 @immutable

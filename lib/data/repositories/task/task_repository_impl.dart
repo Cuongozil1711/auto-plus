@@ -1,6 +1,6 @@
-import 'package:flutter_shopping_cart/data/repositories/task/task_datasource.dart';
-import 'package:flutter_shopping_cart/data/repositories/task/task_repository.dart';
-import 'package:flutter_shopping_cart/data/model/task.dart';
+import 'package:auto_plus/data/repositories/task/task_datasource.dart';
+import 'package:auto_plus/data/repositories/task/task_repository.dart';
+import 'package:auto_plus/data/model/task.dart';
 
 class TaskRepositoryImpl implements Repository<Task> {
   final TaskDatasource _datasource;

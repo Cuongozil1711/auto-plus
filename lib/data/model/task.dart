@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/data/model/keys/task_keys.dart';
+import 'package:auto_plus/data/model/keys/task_keys.dart';
 
 
 class Task extends Equatable {

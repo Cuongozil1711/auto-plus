@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
-import 'package:flutter_shopping_cart/bloc/task/task_event.dart';
-import 'package:flutter_shopping_cart/bloc/task/task_state.dart';
-import 'package:flutter_shopping_cart/data/repositories/task/task_repository_impl.dart';
+import 'package:auto_plus/bloc/task/task_event.dart';
+import 'package:auto_plus/bloc/task/task_state.dart';
+import 'package:auto_plus/data/repositories/task/task_repository_impl.dart';
 
 class TaskBloc extends Bloc<TaskEvent, TaskState> {
   TaskBloc({required this.taskRepositoryImpl}) : super(TaskLoading()) {

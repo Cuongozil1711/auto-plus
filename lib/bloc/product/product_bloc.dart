@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter_shopping_cart/data/repositories/product_repository.dart';
+import 'package:auto_plus/data/repositories/product_repository.dart';
 
 import '../../data/model/product.dart';
 part 'product_event.dart';
